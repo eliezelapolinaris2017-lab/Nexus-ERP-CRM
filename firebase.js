@@ -14,12 +14,12 @@ import {
 
 /* ====== PON TUS KEYS AQUÍ ====== */
 const firebaseConfig = {
-  apiKey:        "TU_API_KEY",
-  authDomain:    "TU_AUTH_DOMAIN",
-  projectId:     "TU_PROJECT_ID",
-  storageBucket: "TU_STORAGE_BUCKET",
-  messagingSenderId: "TU_SENDER_ID",
-  appId:         "TU_APP_ID"
+  apiKey: "AIzaSyDA9Al--d5KmCy2AJd9StOy2wKYgWTttLY",
+  authDomain:  "nexus-erp-crm.firebaseapp.com",
+  projectId:  "nexus-erp-crm",
+  storageBucket: "nexus-erp-crm.firebasestorage.app",
+  messagingSenderId: "474380232021",
+  appId: "1:474380232021:web:4a760d73ea4a1503f2fbdc"
 };
 /* ================================= */
 
